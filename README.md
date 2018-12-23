@@ -1,3 +1,9 @@
-# Wisnu >>= Hakyll
+# wisn.github.io
 
-A personal GitHub Page that using Hakyll.
+A hand-crafted personal blog that talking about computer science or random
+stuff.
+
+## License
+
+Licensed under [The MIT License](LICENSE).
+
