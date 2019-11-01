@@ -1,4 +1,4 @@
 const STORE = {
-  bio: 'Software Engineer at Bukalapak',
+  bio: 'Informatics Student',
 };
 
