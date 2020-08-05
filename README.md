@@ -1,7 +1,6 @@
 # wisn.github.io
 
-A hand-crafted personal blog that talking about computer science or random
-stuff.
+Well, simply a personal GitHub page.
 
 ## License
 
